@@ -11,8 +11,8 @@ header {
     z-index: 100;
 }
 .header-img {
-    width: 80%;
-    max-height: 260px;
+    width: 100%;
+    max-height: 300px;
     object-fit: cover;
     display: block;
 }
