@@ -1,6 +1,6 @@
 // Gallery Slideshow Logic
 
-const galleryPath = 'public/gallery/';
+const galleryPath = '/gallery/';
 const galleryImageElement = document.getElementById('gallery-image');
 const prevBtn = document.getElementById('prev');
 const nextBtn = document.getElementById('next');
@@ -8,7 +8,7 @@ const nextBtn = document.getElementById('next');
 let galleryImages = [];
 let currentImage = 0;
 
-// Fetch image list from gallery.json (must be maintained in /public/gallery/)
+// Fetch image list from gallery.json (must be maintained in /gallery/)
 async function fetchGalleryImages() {
     try {
         const res = await fetch(`${galleryPath}gallery.json`);
