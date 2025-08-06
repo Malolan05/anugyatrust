@@ -12,7 +12,7 @@ header {
 }
 .header-img {
     width: 70%;
-    max-height: 320px;
+    max-height: 150px;
     object-fit: cover;
     display: block;
     margin: auto;
@@ -34,10 +34,10 @@ header {
     box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 header h1 {
-    font-size: 4rem;
+    font-size: 2rem;
     margin: 0;
     color: #225a94;
-    font-weight: 700;
+    font-weight: 300;
     letter-spacing: 1px;
 }
 nav {
