@@ -105,7 +105,7 @@ blockquote {
 #gallery-image {
     width: 420px;
     max-width: 95vw;
-    height: 280px;
+    height: 320px;
     object-fit: cover;
     border-radius: 13px;
     box-shadow: 0 2px 16px rgba(34,90,148,0.11);
