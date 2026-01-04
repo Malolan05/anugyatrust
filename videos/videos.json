@@ -1,6 +1,6 @@
 [
     {
-        "title": "Adhyayana Utsava Veda Parayanam at Kumbhakonam Aravamudhan Divyadesham",
+        "title": "Adhyayana Utsava Veda Parayanam at Thirukkudanthai Aravamudhan Divyadesham",
         "url": "video1.mp4",
         "thumbnail": "thumb1.jpg"
     },
@@ -8,5 +8,15 @@
         "title": "Adhyayana Utsava Veda Parayanam at Thanjai Mamani Divyadesham",
         "url": "video2.mp4",
         "thumbnail": "thumb2.jpg"
+    },
+    {
+        "title": "Adhyayana Utsava Veda Parayanam at Thirukkandiyur Divyadesham",
+        "url": "video3.mp4",
+        "thumbnail": "thumb3.jpg"
+    },
+    {
+        "title": "Adhyayana Utsava Veda Parayanam at Thiruvelliyangudi Divyadesham",
+        "url": "video4.mp4",
+        "thumbnail": "thumb4.jpg"
     }
 ]
